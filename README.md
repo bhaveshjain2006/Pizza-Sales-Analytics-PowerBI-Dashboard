@@ -1,12 +1,12 @@
 # 🍕 Pizza Sales Analytics Dashboard
 
-> 🚀 An interactive **Power BI Dashboard** designed to analyze pizza sales performance, revenue trends, customer ordering patterns, and business insights.
+> 🚀 An interactive **Power BI Dashboard** built to analyze pizza sales performance, revenue trends, customer purchasing behavior, and business insights through interactive visualizations.
 
 ---
 
 # 📌 Project Overview
 
-This Power BI project focuses on analyzing pizza sales data to uncover valuable business insights. The dashboard enables users to monitor revenue, customer orders, product performance, and sales trends through interactive visualizations, helping businesses make data-driven decisions.
+The **Pizza Sales Analytics Dashboard** is a Business Intelligence project developed in **Microsoft Power BI** to transform raw pizza sales data into meaningful insights. The dashboard provides an overview of overall business performance, identifies best-selling products, analyzes customer ordering patterns, and helps stakeholders make informed business decisions.
 
 ---
 
@@ -31,21 +31,34 @@ This Power BI project focuses on analyzing pizza sales data to uncover valuable 
 
 # 📈 Dashboard Features
 
-- 📅 Monthly Revenue Trend
-- 🍕 Top 5 Pizzas by Revenue
-- 🥇 Top 10 Pizzas by Revenue
+### 📄 Executive Dashboard
+
+- 💰 Total Revenue Overview
+- 🛒 Total Orders Analysis
+- 🍕 Total Pizzas Sold
+- 💵 Average Order Value
+- 📈 Monthly Revenue Trend
 - 🍽️ Revenue by Pizza Category
 - 📏 Revenue by Pizza Size
-- 📆 Day-wise Pizza Sales
-- 🎛️ Interactive Slicers & Filters
+- 📅 Day-wise Pizza Sales
+- 🎛️ Interactive Filters
+
+### 📄 Sales Performance Dashboard
+
+- 🥇 Top 10 Pizzas by Revenue
+- 📉 Bottom 10 Pizzas by Revenue
+- 🍕 Quantity Sold by Pizza Category
+- 📏 Quantity Sold by Pizza Size
+- ⏰ Orders by Hour (Time Slot)
+- 📆 Average Order Value by Month
+- 🍕 Top 10 Pizzas by Quantity Sold
 
 ---
 
 # 🎛️ Interactive Filters
 
 - 📅 Order Date
-- 🗓️ Month
-- ⏰ Time Slot
+- 📆 Month
 - 🍕 Pizza Category
 - 📏 Pizza Size
 
@@ -53,42 +66,74 @@ This Power BI project focuses on analyzing pizza sales data to uncover valuable 
 
 # 📷 Dashboard Preview
 
-![Dashboard Preview](DASHBOARD.png)
+## 📄 Executive Dashboard
+
+![Executive Dashboard](Pizza Sales Dashboard1.png)
+
+## 📄 Sales Performance Dashboard
+
+![Sales Dashboard](Pizza Sales Dashboard2.png)
 
 ---
 
 # 💡 Key Business Insights
 
-- 💰 Track total revenue and customer orders.
-- 📈 Analyze monthly revenue trends.
-- 🍕 Identify the best-performing pizzas by revenue.
-- 🍽️ Compare revenue across different pizza categories.
-- 📏 Understand customer preferences by pizza size.
-- 📆 Monitor sales performance across different days of the week.
+- 💰 Monitor overall business revenue and order performance.
+- 📈 Analyze monthly sales trends to identify seasonal demand.
+- 🍕 Discover the highest and lowest revenue-generating pizzas.
+- 🍽️ Compare sales across different pizza categories.
+- 📏 Understand customer preferences based on pizza size.
+- ⏰ Identify peak ordering hours for better operational planning.
+- 📆 Track average order value over different months.
 
 ---
 
 # 🚀 Skills Demonstrated
 
 - ✅ Data Cleaning
+- ✅ Power Query
 - ✅ Data Modeling
 - ✅ DAX Measures
-- ✅ Power Query
 - ✅ Dashboard Design
+- ✅ Interactive Reporting
 - ✅ Business Intelligence
-- ✅ Data Visualization
 - ✅ Sales Performance Analysis
+- ✅ Data Visualization
 
 ---
 
 # 📂 Repository Contents
 
-- 📄 Pizza Sales Analytics Dashboard.pbix
-- 🖼️ Dashboard.png
-- 📖 README.md
+```
+Pizza-Sales-Analytics/
+│
+├── Pizza Sales Dashboard.pbix
+├── Pizza Sales Dataset.xlsx
+├── Dashboard1.png
+├── Dashboard2.png
+└── README.md
+```
+
+---
+
+# 🎯 Business Value
+
+This dashboard enables businesses to:
+
+- 📊 Monitor sales performance in real time.
+- 💰 Track revenue growth and customer ordering behavior.
+- 🍕 Identify top-performing and low-performing products.
+- 📈 Improve inventory planning based on demand.
+- 🎯 Support data-driven business decisions through interactive reporting.
 
 ---
 
 ## 👨‍💻 Author
 
 **Bhavesh Jain**
+
+🎓 B.Tech Computer Science Engineering
+
+💻 Aspiring Data Analyst | Power BI | SQL | Python | Excel
+
+⭐ If you found this project useful, don't forget to **Star ⭐ the repository!**
