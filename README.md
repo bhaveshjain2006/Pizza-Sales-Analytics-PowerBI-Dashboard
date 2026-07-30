@@ -68,13 +68,14 @@ The **Pizza Sales Analytics Dashboard** is a Business Intelligence project devel
 
 ## 📄 Executive Dashboard
 
-![Executive Dashboard](<img width="1471" height="828" alt="image" src="https://github.com/user-attachments/assets/1272c886-b2cc-4ec5-b510-bb6cae54d779" />
-)
+<img width="1473" height="830" alt="image" src="https://github.com/user-attachments/assets/5194e232-35a4-4efc-b6c9-2774d6a8a07f" />
+
+
 
 ## 📄 Sales Performance Dashboard
 
-![Sales Dashboard](<img width="1608" height="828" alt="image" src="https://github.com/user-attachments/assets/52b5d429-1177-493e-b647-d1e779575932" />
-)
+<img width="1611" height="823" alt="image" src="https://github.com/user-attachments/assets/e6c6cd02-b9d4-4030-ad9c-c79df9a91300" />
+
 
 ---
 
